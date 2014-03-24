@@ -1,0 +1,7 @@
+---
+mumble: 
+   name:
+   server: 
+   port: 
+commands:
+   mycommand: mpdfile.ogg
