@@ -33,4 +33,5 @@ scheduler.every '10m' do
 end
 
 while 1
+	sleep(10)
 end
